@@ -32,7 +32,12 @@ Role-based or feature-based installation is for setting up specific server roles
 
 Step 4: Now that the installation of AD and DNS Server is finished follow the Deployment Configuration. Go back to Server Manager and to get to Deployment Configuration Click on the Flag with a yellow icon at the top right, on the left side of "Manage". This will bring up the Active Directory Domain Services Configuration Wizard. 
 
-- Step 4a: Select new forest & give it a Root domain name. 
+- Step 4a: Select new forest & give it a Root domain name.
+
+Root domain name format: [prefix].[name].[suffix] and we going to select "Add a new forest" because the first domain you deploy in an Active Directory forest is called the forest root domain. This domain remains the forest root domain for the life cycle of the AD DS deployment. 
+
+More information on creating the Root domain name: "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/plan/selecting-the-forest-root-domain"
+
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/d2fc82cd-ee55-47f5-8b23-2298ca608924)
 - Step 4b: Give it a DSRM password 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/733401c1-242f-4fd8-9b7d-e6e9d2d067b3)
