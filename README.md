@@ -1,5 +1,5 @@
 # Window Server 2022 AD Setup
-Setting up Active Directory on Windows Server 2022
+Setting up Active Directory on Windows Server 2022. There are two ways that we can setup this up via Windows Powershell or Graphical User Interface. In this setup, we'll be setting it up via Graphical User Interface. 
 
 Step 1: Start up your Windows Server in Oracle VM VirtualBox Manager or any VM you choose. If you haven't set this up yet, please take a look at this x. 
 
@@ -11,7 +11,7 @@ Step 2: Start up your Server Manager and on the top right, click Manage -> Add R
 
 Step 3: Run through the Wizard. 
 
-- Step 3a: Role-based or feature-based or Remote Desktop Services Installation 
+- Step 3a: Role-based feature-based or Remote Desktop Services Installation. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/386abc51-8a02-4f19-ad7d-ecde9103426a)
 - Step 3b: Select the Server you're working with and one you'd like to install AD & DNS Server on. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/0af9d17b-c7d7-40b7-80b0-c94941a31cd8)
