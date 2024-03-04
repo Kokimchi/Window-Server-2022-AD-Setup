@@ -1,4 +1,4 @@
-# Window-Server-2022-AD-Setup
+# Window-Server-2022-AD Setup
 Setting up Active Directory on Windows Server 2022
 
 Step 1: Start up your Windows Server in Oracle VM VirtualBox Manager or any VM of your choice. If you haven't set this up yet please refer to this x. 
