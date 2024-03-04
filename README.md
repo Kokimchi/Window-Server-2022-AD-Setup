@@ -41,6 +41,8 @@ More information on creating the Root domain name: "https://learn.microsoft.com/
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/d2fc82cd-ee55-47f5-8b23-2298ca608924)
 - Step 4b: Give it a DSRM password
 
+DSRM password, why? DSRM is a Safe Mode boot option for Windows Server domain controllers. DSRM enables an administrator to repair, recover, or restore an Active Directory (AD) database. Restarting a domain controller in DSRM takes it offline so it functions only as a regular server. 
+
 Forest & Domain functional levels select Windows Server 2016. Why? 
 
 Functional levels determine the available Active Directory Domain Services (AD DS) domain or forest capabilities. They also determine which Windows Server operating systems you can run on domain controllers in the domain or forest. However, functional levels do not affect which operating systems you can run on workstations and member servers that are joined to the domain or forest. 
