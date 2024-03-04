@@ -1,7 +1,7 @@
 # Window Server 2022 AD Setup
 There are two ways that we can set this up via Windows Powershell or Graphical User Interface. In this setup, we'll be setting it up via Graphical User Interface. 
 
-Step 1: Start up your Windows Server in Oracle VM VirtualBox Manager or any VM you choose. If you haven't set this up yet, please take a look at this x. 
+Step 1: Start up your Windows Server in Oracle VM VirtualBox Manager or any VM you choose. Setting up a Windows Server VM isn't covered here. 
 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/0cbb0eaa-51c5-4e08-8d33-f11d3ecfd6a7)
 
