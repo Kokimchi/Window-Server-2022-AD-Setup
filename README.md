@@ -64,6 +64,16 @@ More information on this: "https://learn.microsoft.com/en-us/windows-server/iden
 - Step 4h: Run the installation. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/a4dc4cc9-3287-41f8-a332-aee334bec557)
 
+Step 5: Shortcut to Active Directory Users and Computers 
+
+Now that AD and DNS Server have been installed you should create shortcuts to them. There are two ways, you can do it via Server Manager -> Tools or just search for them. 
+
+![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/c963effc-d47f-428c-93e8-b2129e0992db)
+![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/d2bbc2e0-ff0f-4100-85d4-dfc668cb75e1)
+
+After you have found just copy and paste to the desktop and you're all set. 
+
+
 
 
 
