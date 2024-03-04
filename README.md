@@ -13,7 +13,7 @@ Step 3: Run through the Wizard.
 
 - Step 3a: "Role-based or feature-based" or "Remote Desktop Services Installation". Which one should you select?
   
-Role-based or feature-based installation is for setting up specific server roles or features. So, in this case, we are selecting specific server roles or features that you want the system to perform or have. This cloud includes Web hosting, DNS Servers, or file sharing. On other hand, Remote Desktop Services installation is used to setup the server to allow remote users to access applications and services. This would enable a user to interact with the system from a different location as if they were physically present at the system. 
+Role-based or feature-based installation is for setting up specific server roles or features. So, in this case, we are selecting specific server roles or features that you want the system to perform or have. This cloud includes Web hosting, DNS Servers, or file sharing. On the other hand, Remote Desktop Services installation is used to set up the server to allow remote users to access applications and services. This would enable a user to interact with the system from a different location as if they were physically present at the system. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/386abc51-8a02-4f19-ad7d-ecde9103426a)
 - Step 3b: Select the Server you're working with and one you'd like to install AD & DNS Server on. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/0af9d17b-c7d7-40b7-80b0-c94941a31cd8)
