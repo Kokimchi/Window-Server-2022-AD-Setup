@@ -17,7 +17,7 @@ Step 3: Run through the Wizard.
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/0af9d17b-c7d7-40b7-80b0-c94941a31cd8)
 - Step 3c: Select the Server Roles "Active Directory Domain Services & DNS Server 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/7267b753-9b7a-4b0b-b779-deb288f4d6cb)
-- Step 3d: By default Group Policy Management and .NET Frame 4.8 Features (2 of 7 installed) are select. If they're not please select them. 
+- Step 3d: By default Group Policy Management and .NET Frame 4.8 Features (2 of 7 installed) are selected. If they're not please select them. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/3b9851df-a50a-4307-9a9c-b14027a59a28)
 - Step 3e: Select Next. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/bffda8d8-4f5c-4950-8bfe-e5e5cb1b5e2e)
@@ -28,22 +28,23 @@ Step 3: Run through the Wizard.
 - Step 3h: Wait for the Feature installation to finish. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/c151d6d4-51f7-48f1-99eb-96cb75bc7bd2)
 
-Step 4: Now that the installation of AD and DNS Server is finished follow the Deployment Configuration. To get to the Deployment Configuration Click on the Flag with a yellow icon at the top right, on the left side of "Manage". 
+Step 4: Now that the installation of AD and DNS Server is finished follow the Deployment Configuration. To get to the Deployment Configuration Click on the Flag with a yellow icon at the top right, on the left side of "Manage". This will bring up the Active Directory Domain Services Configuration Wizard. 
 
+- Step 4a: Select new forest & give it a Root domain name. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/d2fc82cd-ee55-47f5-8b23-2298ca608924)
-
+- Step 4b: Give it a DSRM password 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/733401c1-242f-4fd8-9b7d-e6e9d2d067b3)
-
+- Step 4c: Next, don't worry about creating DNS delegation. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/bdccf290-a3bf-45d4-bd65-111fc063839b)
-
+- Step 4d: By default the NetBIOS domain name is AD, and this can be changed. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/158ec483-e82d-4746-baae-88240eab7671)
-
+- Step 4e: This shows the Database folder, Log files, and SYSVOL Folder locations. Click Next. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/e9ffc81c-1a2e-4101-ad49-8cbcf47b422e)
-
+- Step 4f: Review the Options you selected. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/90810765-49a6-4485-86e6-d60cbeef30f5)
-
+- Step 4g: If you click on review script, this is useful if you're setting up via the command line. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/19714b08-b025-4814-8ea2-a2efc3e7d114)
-
+- Step 4h: Run the installation. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/a4dc4cc9-3287-41f8-a332-aee334bec557)
 
 
