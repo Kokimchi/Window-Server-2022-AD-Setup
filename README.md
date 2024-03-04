@@ -1,5 +1,5 @@
 # Window Server 2022 AD Setup
-Setting up Active Directory on Windows Server 2022. There are two ways that we can setup this up via Windows Powershell or Graphical User Interface. In this setup, we'll be setting it up via Graphical User Interface. 
+There are two ways that we can set this up via Windows Powershell or Graphical User Interface. In this setup, we'll be setting it up via Graphical User Interface. 
 
 Step 1: Start up your Windows Server in Oracle VM VirtualBox Manager or any VM you choose. If you haven't set this up yet, please take a look at this x. 
 
