@@ -15,7 +15,7 @@ Step 3: Run through the Wizard.
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/386abc51-8a02-4f19-ad7d-ecde9103426a)
 - Step 3b: Select the Server you're working with and one you'd like to install AD & DNS Server on. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/0af9d17b-c7d7-40b7-80b0-c94941a31cd8)
-- Step 3c: Select the Server Roles "Active Directory Domain Services & DNS Server 
+- Step 3c: Select the Server Roles Active Directory Domain Services & DNS Server 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/7267b753-9b7a-4b0b-b779-deb288f4d6cb)
 - Step 3d: By default Group Policy Management and .NET Frame 4.8 Features (2 of 7 installed) are selected. If they're not please select them. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/3b9851df-a50a-4307-9a9c-b14027a59a28)
