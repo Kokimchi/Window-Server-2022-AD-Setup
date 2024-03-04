@@ -17,15 +17,15 @@ Step 3: Run through the Wizard.
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/0af9d17b-c7d7-40b7-80b0-c94941a31cd8)
 - Step 3c: Select the Server Roles "Active Directory Domain Services & DNS Server 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/7267b753-9b7a-4b0b-b779-deb288f4d6cb)
-- Step 4c: By default Group Policy Management and .NET Frame 4.8 Features (2 of 7 installed) are select. If they're not please select them. 
+- Step 3d: By default Group Policy Management and .NET Frame 4.8 Features (2 of 7 installed) are select. If they're not please select them. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/3b9851df-a50a-4307-9a9c-b14027a59a28)
-
+- Step 3e: Select Next. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/bffda8d8-4f5c-4950-8bfe-e5e5cb1b5e2e)
-
+- Step 3f: Select Next. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/d70efb7f-e1e3-4005-90bc-cf63574404b7)
-
+- Step 3g: Select Next. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/476bc5d4-a9e8-4f36-9c6f-dfb15de0c928)
-
+- Step 3h: Wait for the Feature installation to finish. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/c151d6d4-51f7-48f1-99eb-96cb75bc7bd2)
 
 Step 4:
