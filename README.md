@@ -41,9 +41,13 @@ More information on creating the Root domain name: "https://learn.microsoft.com/
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/d2fc82cd-ee55-47f5-8b23-2298ca608924)
 - Step 4b: Give it a DSRM password
 
-Forest & Domain functional levels select Windows Server 2016. Why? Functional levels determine the available Active Directory Domain Services (AD DS) domain or forest capabilities. They also determine which Windows Server operating systems you can run on domain controllers in the domain or forest. However, functional levels do not affect which operating systems you can run on workstations and member servers that are joined to the domain or forest. 
+Forest & Domain functional levels select Windows Server 2016. Why? 
+
+Functional levels determine the available Active Directory Domain Services (AD DS) domain or forest capabilities. They also determine which Windows Server operating systems you can run on domain controllers in the domain or forest. However, functional levels do not affect which operating systems you can run on workstations and member servers that are joined to the domain or forest. 
 
 When you deploy AD DS, set the domain and forest functional levels to be the highest value that your environment can support. This way, you can use as many AD DS features as possible. When you deploy a new forest, you are prompted to set the forest functional level and then set the domain functional level. You can set the domain functional level to a value that is higher than the forest functional level, you cannot set the domain functional level to a value that is lower than the forest functional level. 
+
+More information on this: "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-functional-levels"
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/733401c1-242f-4fd8-9b7d-e6e9d2d067b3)
 - Step 4c: Next, don't worry about creating DNS delegation. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/bdccf290-a3bf-45d4-bd65-111fc063839b)
