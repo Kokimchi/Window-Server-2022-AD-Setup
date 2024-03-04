@@ -51,7 +51,7 @@ When you deploy AD DS, set the domain and forest functional levels to be the hig
 
 More information on this: "https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-functional-levels"
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/733401c1-242f-4fd8-9b7d-e6e9d2d067b3)
-- Step 4c: Next, don't worry about creating DNS delegation. 
+- Step 4c: Next, don't worry about creating DNS delegation. Why? DNS delegation is a process in which authority over a portion of the DNS namespace is assigned from one DNS server to another. This is commonly done when you want to delegate responsibility for managing a subdomain to another organization or DNS server. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/bdccf290-a3bf-45d4-bd65-111fc063839b)
 - Step 4d: By default the NetBIOS domain name is AD, and this can be changed. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/158ec483-e82d-4746-baae-88240eab7671)
