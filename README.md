@@ -28,7 +28,7 @@ Step 3: Run through the Wizard.
 - Step 3h: Wait for the Feature installation to finish. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/c151d6d4-51f7-48f1-99eb-96cb75bc7bd2)
 
-Step 4: Now that the installation of AD and DNS Server is finished follow the Deployment Configuration. To get to the Deployment Configuration Click on the Flag with a yellow icon at the top right, on the left side of "Manage". This will bring up the Active Directory Domain Services Configuration Wizard. 
+Step 4: Now that the installation of AD and DNS Server is finished follow the Deployment Configuration. Go back to Server Manager and to get to Deployment Configuration Click on the Flag with a yellow icon at the top right, on the left side of "Manage". This will bring up the Active Directory Domain Services Configuration Wizard. 
 
 - Step 4a: Select new forest & give it a Root domain name. 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/d2fc82cd-ee55-47f5-8b23-2298ca608924)
