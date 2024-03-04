@@ -9,8 +9,9 @@ Step 2: Start up your Server Manager and on the top right click on Manage -> Add
 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/40b314ff-a940-4f45-92cb-ce60aee8b45e)
 
-Step 3: 
+Step 3: Run through the Wizard. 
 
+- Step 3a: Role-based or feature-based or Remote Desktop Services Installation 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/386abc51-8a02-4f19-ad7d-ecde9103426a)
 
 ![image](https://github.com/Kokimchi/Window-Server-2022-AD-Setup/assets/23605674/0af9d17b-c7d7-40b7-80b0-c94941a31cd8)
